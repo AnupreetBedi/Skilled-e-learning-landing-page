@@ -199,7 +199,7 @@ footer {
 @media (max-width: 767px) {
   nav {
     margin: 0 2rem;
-    width: 80%;
+    width: 60%;
   }
 
   .hero-main {
